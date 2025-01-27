@@ -1,12 +1,27 @@
-from numpy import random 
+# from numpy import random 
 
 
-import matplotlib.pyplot as plt
-import seaborn as sns
+# import matplotlib.pyplot as plt
+# import seaborn as sns
 
 
 
 
-sns.distplot(random.normal(size=1000),hist=False)
+# sns.distplot(random.normal(size=1000),hist=False)
 
-plt.show()
+# plt.show()
+
+
+
+
+
+#print something  like your name 
+
+
+
+
+
+
+
+
+
